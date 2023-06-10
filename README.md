@@ -6,9 +6,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Lucas-Si&compact_layout=true"/>
 </div>
 
+<!-- <div>
+    <details>
+        <summary><b>sobre mim</b></summary><br/>
+        Sample text
+    </details>
+</div> -->
+
 <div>
     <h2 align="center">Conhecimentos</h2>
-    <img align="right" height="150px" src="https://64.media.tumblr.com/3002ed0fbd9703b76ba34f4ad77efb93/f90d5cab288f410a-14/s1280x1920/97a22ca4e6769286876a73e1965e6d7e4e3e5bae.gifv"/>
+    <img align="right" height="140px" src="https://64.media.tumblr.com/3002ed0fbd9703b76ba34f4ad77efb93/f90d5cab288f410a-14/s1280x1920/97a22ca4e6769286876a73e1965e6d7e4e3e5bae.gifv"/>
     <ul >
        <li>front end</li>
        <li>back end</li>
@@ -45,7 +52,7 @@
             </td>
         </tr>
     </table>
-    <img align="left" height="180px" src="https://i.redd.it/uh2igeqamjo91.gif" />
+    <img align="left" height="150px" src="https://i.redd.it/uh2igeqamjo91.gif" />
     <img height="150px" src="https://media.spelunky.fyi/mods/logo/01FGA9XMHF38BN038CZMX454K9/1632433525298462.gif" />
 </div>
 
