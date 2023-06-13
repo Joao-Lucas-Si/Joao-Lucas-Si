@@ -104,9 +104,9 @@
             </td>
         </tr>
         <tr>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-                <h4 align="center">Express.js</h4>
+             <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+                <h4 align="center">Docker</h4>
             </td>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -123,12 +123,6 @@
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
                 <h4 align="center">Godot</h4>
-            </td>
-        </tr>
-        <tr >          
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-                <h4 align="center">Docker</h4>
             </td>
         </tr>
     </table>
