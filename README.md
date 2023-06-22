@@ -21,7 +21,6 @@
        <li>back end</li>
        <li>banco de dados sql</li>
        <li>web scraping</li>
-       <li>desenvolvimento de jogos</li>
     </ul>
     
 </div>
@@ -73,10 +72,6 @@
                 <h4 align="center">Sass</h4>
             </td>
             <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" />
-                <h4 align="center">Stylus</h4>
-            </td>
-            <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
                 <h4 align="center">Postgresql</h4>
             </td>
@@ -89,10 +84,6 @@
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
                 <h4 align="center">TypeScript</h4>
-            </td>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-                <h4 align="center">Node.js</h4>
             </td>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
@@ -119,10 +110,6 @@
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
                 <h4 align="center">Java</h4>
-            </td>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-                <h4 align="center">Godot</h4>
             </td>
         </tr>
     </table>
@@ -163,8 +150,8 @@
                 <h4 align="center">Ionic</h4>
             </td>
             <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-                <h4 align="center">Sqlite</h4>
+            <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+                <h4 align="center">Linux</h4>
             </td>
         </tr>
     </table>
