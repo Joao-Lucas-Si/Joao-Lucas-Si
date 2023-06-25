@@ -15,12 +15,11 @@
 
 <div>
     <h2 align="center">Conhecimentos</h2>
-    <img align="right" height="140px" src="https://64.media.tumblr.com/3002ed0fbd9703b76ba34f4ad77efb93/f90d5cab288f410a-14/s1280x1920/97a22ca4e6769286876a73e1965e6d7e4e3e5bae.gifv"/>
+    <img align="right" height="100px" src="https://64.media.tumblr.com/3002ed0fbd9703b76ba34f4ad77efb93/f90d5cab288f410a-14/s1280x1920/97a22ca4e6769286876a73e1965e6d7e4e3e5bae.gifv"/>
     <ul >
        <li>front end</li>
        <li>back end</li>
        <li>banco de dados sql</li>
-       <li>web scraping</li>
     </ul>
     
 </div>
@@ -75,12 +74,12 @@
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
                 <h4 align="center">Postgresql</h4>
             </td>
-        </tr>
-        <tr>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                 <h4 align="center">JavaScript</h4>
             </td>
+        </tr>
+        <tr>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
                 <h4 align="center">TypeScript</h4>
@@ -93,9 +92,7 @@
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
                 <h4 align="center">Nuxt.js</h4>
             </td>
-        </tr>
-        <tr>
-             <td width="125px">
+            <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
                 <h4 align="center">Docker</h4>
             </td>
@@ -103,6 +100,8 @@
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
                 <h4 align="center">Python</h4>
             </td>
+        </tr>
+        <tr>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
                 <h4 align="center">Django</h4>
@@ -152,6 +151,14 @@
             <td width="125px">
             <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
                 <h4 align="center">Linux</h4>
+            </td>
+            <td width="125px">
+            <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+                <h4 align="center">Bash</h4>
+            </td>
+            <td width="125px">
+            <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+                <h4 align="center">Git</h4>
             </td>
         </tr>
     </table>
