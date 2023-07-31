@@ -49,6 +49,12 @@
                 <h4 align="center">django</h4>
             </td>
         </tr>
+        <tr>
+            <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+                    <h4 align="center">c#</h4>
+            </td>
+        </tr>
     </table>
     <img align="left" height="150px" src="https://i.redd.it/uh2igeqamjo91.gif" />
     <img height="150px" src="https://media.spelunky.fyi/mods/logo/01FGA9XMHF38BN038CZMX454K9/1632433525298462.gif" />
@@ -93,22 +99,22 @@
                 <h4 align="center">Nuxt.js</h4>
             </td>
             <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-                <h4 align="center">Docker</h4>
-            </td>
-            <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
                 <h4 align="center">Python</h4>
             </td>
-        </tr>
-        <tr>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
                 <h4 align="center">Django</h4>
             </td>
+        </tr>
+        <tr>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
                 <h4 align="center">Java</h4>
+            </td>
+            <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+                    <h4 align="center">Git</h4>
             </td>
         </tr>
     </table>
@@ -118,14 +124,6 @@
     <h2 >Estudando</h2>
     <table align="center">
         <tr>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-                <h4 align="center">Kotlin</h4>
-            </td>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-                <h4 align="center">Android Studio</h4>
-            </td>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
                 <h4 align="center">Spring boot</h4>
@@ -138,27 +136,19 @@
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
                 <h4 align="center">next.js</h4>
             </td>
-        </tr>
-        <tr>
             <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
                 <h4 align="center">Nest.js</h4>
             </td>
             <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-                <h4 align="center">Ionic</h4>
-            </td>
-            <td width="125px">
-            <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-                <h4 align="center">Linux</h4>
-            </td>
-            <td width="125px">
-            <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
                 <h4 align="center">Bash</h4>
             </td>
+        </tr>
+        <tr>
             <td width="125px">
-            <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-                <h4 align="center">Git</h4>
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+                    <h4 align="center">c#</h4>
             </td>
         </tr>
     </table>
