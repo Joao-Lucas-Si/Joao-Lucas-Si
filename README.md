@@ -37,22 +37,16 @@
                 <h4 align="center">vue</h4>
             </td>
             <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-                <h4 align="center">nuxt</h4>
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+                <h4 align="center">TypeScript</h4>
             </td>
             <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-                <h4 align="center">python</h4>
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                <h4 align="center">React.js</h4>
             </td>
             <td width="125px">
-                <img width="100%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> 
-                <h4 align="center">django</h4>
-            </td>
-        </tr>
-        <tr>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-                    <h4 align="center">c#</h4>
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+                <h4 align="center">Spring boot</h4>
             </td>
         </tr>
     </table>
@@ -116,6 +110,18 @@
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
                     <h4 align="center">Git</h4>
             </td>
+            <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+                <h4 align="center">Spring boot</h4>
+            </td>
+            <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                <h4 align="center">React.js</h4>
+            </td>
+             <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+                <h4 align="center">next.js</h4>
+            </td>
         </tr>
     </table>
 </div>
@@ -125,30 +131,20 @@
     <table align="center">
         <tr>
             <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-                <h4 align="center">Spring boot</h4>
-            </td>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-                <h4 align="center">React.js</h4>
-            </td>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-                <h4 align="center">next.js</h4>
-            </td>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-                <h4 align="center">Nest.js</h4>
-            </td>
-            <td width="125px">
-                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-                <h4 align="center">Bash</h4>
-            </td>
-        </tr>
-        <tr>
-            <td width="125px">
                 <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-                    <h4 align="center">c#</h4>
+                    <h4 align="center">C#</h4>
+            </td>
+            <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+                    <h4 align="center">Android studio</h4>
+            </td>
+            <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+                    <h4 align="center">Kotlin</h4>
+            </td>
+            <td width="125px">
+                <img width="100%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+                    <h4 align="center">Express.js</h4>
             </td>
         </tr>
     </table>
@@ -157,10 +153,10 @@
 <div align="center">
   <h2>Contato</h2>
   <img align="left" src="https://media.tenor.com/gMjtQIm-HaMAAAAS/neco-arc.gif"/>
-  <a href="#">
+  <a href="mailto:joao6lucas2168@gmail.com">
     <img height="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="mailto:joao-lusl@proton.me">
     <img  height="50px" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="#">
